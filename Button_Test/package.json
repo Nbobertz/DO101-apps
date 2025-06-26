@@ -1,5 +1,5 @@
 {
-  "name": "Button_Test",
+  "name": "button_test",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^5.1.0"
   },
+  "description": "",
   "devDependencies": {},
-  "description": ""
+  "type": "commonjs"
 }
